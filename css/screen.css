@@ -211,35 +211,37 @@ label {
 /*Start my CSS here: Asim Hyder*/
 
 body{
-  background-color: #634F4F;
+  background-color: #323A4C;
 }
 
 h1{
   font-family: 'Spartan', sans-serif;
   font-size: 150%;
-  color: #BFA4A4;
+  color: #677186;
   padding: 4em;
-  background-color: #381919;
+  background-color: #111B32;
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 70%;
   margin-top: 15px;
   text-align: center;
+  border: 5px solid black;
 }
 
 p{
   font-family: 'Lato', sans-serif;
   font-size: 110%;
   padding: 3em;
-  color: #BFA4A4;
-  background-color: #381919;
+  color: #677186;
+  background-color: #111B32;
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 70%;
   margin-top: 20px;
   text-align: center;
+  border: 5px solid black;
 }
 
 label{
@@ -249,13 +251,14 @@ label{
 
 ol{
   padding: 3em;
-  color: #BFA4A4;
-  background-color: #381919;
+  color: #677186;
+  background-color: #111B32;
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 70%;
   margin-top: 15px;
+  border: 5px solid black;
 }
 
 input{
@@ -265,4 +268,7 @@ input{
 #submit{
   display: block;
   background-color: #B7AAAA;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
