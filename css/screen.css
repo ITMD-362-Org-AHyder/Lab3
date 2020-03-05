@@ -218,12 +218,14 @@ h1{
   font-family: 'Spartan', sans-serif;
   font-size: 150%;
   color: #BFA4A4;
-  padding: 5em;
+  padding: 4em;
   background-color: #381919;
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 70%;
+  margin-top: 15px;
+  text-align: center;
 }
 
 p{
@@ -236,6 +238,8 @@ p{
   margin-right: auto;
   margin-left: auto;
   width: 70%;
+  margin-top: 20px;
+  text-align: center;
 }
 
 label{
@@ -251,6 +255,7 @@ ol{
   margin-right: auto;
   margin-left: auto;
   width: 70%;
+  margin-top: 15px;
 }
 
 input{
